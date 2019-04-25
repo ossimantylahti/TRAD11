@@ -1,0 +1,3 @@
+id,name,model+AF8-id:id,group+AF8-id:id,perm+AF8-read,perm+AF8-write,perm+AF8-create,perm+AF8-unlink
+access+AF8-product+AF8-import+AF8-batch,access.product+AF8-import+AF8-batch,model+AF8-product+AF8-import+AF8-batch,,1,1,1,1
+access+AF8-cierres+AF8-product+AF8-import+AF8-batch,access.cierres+AF8-product+AF8-import+AF8-batch,model+AF8-product+AF8-cierres+AF8-import+AF8-batch,,1,1,1,1
